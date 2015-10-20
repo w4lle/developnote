@@ -5,14 +5,14 @@
 
  * [倍数提高工作效率的Android Studio奇技](http://www.kuqin.com/shuoit/20150909/347947.html)
 
- * [Android Studio Tips Of the Day - Roundup #1](Android Studio Tips Of the Day - Roundup #1)
+ * [Android Studio Tips Of the Day - Roundup #1](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
 
- * [Android Studio Tips Of the Day - Roundup #2](Android Studio Tips Of the Day - Roundup #2)
+ * [Android Studio Tips Of the Day - Roundup #2](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)
 
- * [Android Studio Tips Of the Day - Roundup #3](Android Studio Tips Of the Day - Roundup #3)
+ * [Android Studio Tips Of the Day - Roundup #3](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/)
 
- * [Android Studio Tips Of the Day - Roundup #4](Android Studio Tips Of the Day - Roundup #4)
+ * [Android Studio Tips Of the Day - Roundup #4](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
 
- * [Android Studio Tips Of the Day - Roundup #5](Android Studio Tips Of the Day - Roundup #5)
+ * [Android Studio Tips Of the Day - Roundup #5](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
 
- * [Android Studio Tips Of the Day - Roundup #6](Android Studio Tips Of the Day - Roundup #6)
+ * [Android Studio Tips Of the Day - Roundup #6](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-6/)
