@@ -16,3 +16,13 @@
  * [Android Studio Tips Of the Day - Roundup #5](Android Studio Tips Of the Day - Roundup #5)
 
  * [Android Studio Tips Of the Day - Roundup #6](Android Studio Tips Of the Day - Roundup #6)
+
+
+
+
+
+
+
+##设计模式
+###Singleton
+ * [如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
