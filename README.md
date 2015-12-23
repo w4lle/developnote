@@ -18,6 +18,8 @@
  * [Android Studio Tips Of the Day - Roundup #6](Android Studio Tips Of the Day - Roundup #6)
 
 
+###Debug技巧
+ * [Android Studio你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
 
 
 
