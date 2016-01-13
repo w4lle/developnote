@@ -28,9 +28,15 @@
  * [Data Bindings](https://realm.io/cn/news/data-binding-android-boyar-mount/)
 
 
+
 ##设计模式
-###Singleton
  * [如何正确地写出单例模式](http://wuchong.me/blog/2014/08/28/how-to-correctly-write-singleton-pattern/)
+
+ * [戏说代理模式和Java动态代理](http://www.jianshu.com/p/0d919e54eef0)
+
+
+##源码分析
+ * [Android网络框架源码分析二---Retrofit(动态代理的实际应用)](http://www.jianshu.com/p/07dac989272c)
 
 
 ##性能相关
