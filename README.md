@@ -48,4 +48,6 @@
 
  * [安装包立减1M--微信Android资源混淆打包工具](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208135658&idx=1&sn=ac9bd6b4927e9e82f9fa14e396183a8f#rd)
 
+ * [资源混淆方案之微信vs美团](http://mrljdx.com/2015/12/18/%E8%B5%84%E6%BA%90%E6%B7%B7%E6%B7%86%E6%96%B9%E6%A1%88%E4%B9%8B%E5%BE%AE%E4%BF%A1vs%E7%BE%8E%E5%9B%A2/)
+
 
