@@ -50,6 +50,6 @@
 
  * [资源混淆方案之微信vs美团](http://mrljdx.com/2015/12/18/%E8%B5%84%E6%BA%90%E6%B7%B7%E6%B7%86%E6%96%B9%E6%A1%88%E4%B9%8B%E5%BE%AE%E4%BF%A1vs%E7%BE%8E%E5%9B%A2/)
 
- * [APK瘦身实践](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/)
+ * [APK瘦身实践](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/) 
 
 
