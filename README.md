@@ -52,4 +52,8 @@
 
  * [APK瘦身实践](http://www.jayfeng.com/2015/12/29/APK%E7%98%A6%E8%BA%AB%E5%AE%9E%E8%B7%B5/) 
 
+##应用安全
+
+ * [Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
+
 
