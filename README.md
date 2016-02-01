@@ -56,4 +56,12 @@
 
  * [Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
 
+##热更新
+ * [安卓App热补丁动态修复技术介绍 -- QQ空间](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=1&srcid=1106Imu9ZgwybID13e7y2nEi#wechat_redirect)
+ 
+ * [Android dex分包方案](http://my.oschina.net/853294317/blog/308583)
 
+* [各大热补丁方案分析和比较](http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/)
+* [ Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
+
+* [【新技能get】让App像Web一样发布新版本](http://bugly.qq.com/blog/?p=781)
