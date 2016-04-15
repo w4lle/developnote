@@ -56,6 +56,9 @@
  
  * [APK瘦身记，如何实现高达53%的压缩效果](http://jaq.alibaba.com/community/art/show?articleid=219)
 
+ * [https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex](https://code.facebook.com/posts/1480969635539475/optimizing-android-bytecode-with-redex)
+ * [基于 Facebook Redex 实现 Android APK 的压缩和优化](http://www.jianshu.com/p/78ad578251ef)
+
 ##应用安全
 
  * [Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
