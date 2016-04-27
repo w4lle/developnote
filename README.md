@@ -78,3 +78,9 @@
 * [AndFix解析——三](https://yunair.github.io/blog/2015/10/23/AndFix-%E8%A7%A3%E6%9E%90(%E4%B8%89).html)
 * [关于Android APP在线热修复bug方案的调研(一)(AndFix)](http://blog.csdn.net/xxooyc/article/details/50317455)
 * [关于Android APP在线热修复bug方案的调研(二)(MultiDex的原理分析---Nuwa)](http://blog.csdn.net/xxooyc/article/details/50330217)
+
+## Gradle
+* [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
+* [Groovy Closure Example](https://examples.javacodegeeks.com/core-java/groovy-closure-example/)
+* [Groovy 与 Gradle 基础](http://blog.bugtags.com/2016/01/04/embrace-android-studio-groovy-gradle/)
+* [Gradle 插件开发](http://blog.bugtags.com/2016/03/28/embrace-android-studio-gradle-plugin/)
