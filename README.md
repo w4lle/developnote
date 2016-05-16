@@ -62,6 +62,7 @@
 ##应用安全
 
  * [Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
+ * [手把手教你逆向分析 Android 程序](https://segmentfault.com/a/1190000005133219)
 
 ##热更新
  * [安卓App热补丁动态修复技术介绍 -- QQ空间](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=1&srcid=1106Imu9ZgwybID13e7y2nEi#wechat_redirect)
