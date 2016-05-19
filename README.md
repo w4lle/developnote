@@ -39,6 +39,7 @@
 
 ##源码分析
  * [Android网络框架源码分析二---Retrofit(动态代理的实际应用)](http://www.jianshu.com/p/07dac989272c)
+ * [Glide系列](http://mrfu.me/2016/02/28/Glide_Series_Roundup/)
 
 
 ##性能相关
