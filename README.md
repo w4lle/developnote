@@ -73,3 +73,7 @@
 # 自定义View
 
 * [Android 自定义View属性相关细节](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820236&idx=1&sn=6dec4ff1efeda3224b5a40fdad862404&scene=0#wechat_redirect)
+
+# Git
+
+ * [使用原理视角看 Git](https://blog.coding.net/blog/principle-of-Git)
