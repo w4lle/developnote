@@ -73,6 +73,7 @@
 # 自定义View
 
 * [Android 自定义View属性相关细节](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820236&idx=1&sn=6dec4ff1efeda3224b5a40fdad862404&scene=0#wechat_redirect)
+* [Android自绘动画实现与优化实战——以Tencent OS录音机波形动](http://bugly.qq.com/bbs/forum.php?hmsr=toutiao.io&mod=viewthread&tid=1180&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 # Git
 
