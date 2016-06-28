@@ -78,3 +78,8 @@
 # Git
 
  * [使用原理视角看 Git](https://blog.coding.net/blog/principle-of-Git)
+
+# 进程保活
+
+ *[Android App 不死之路](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504090054&idx=1&sn=5c5cb30c0ab4facffc7424dd6142e95d#rd)
+ *[关于 Android 进程保活，你所需要知道的一切](http://www.jianshu.com/p/63aafe3c12af#)
