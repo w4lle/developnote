@@ -32,6 +32,7 @@
 ##性能相关
 
  * [Android GC 那点事](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw%3D%3D&hmsr=toutiao.io&idx=1&mid=400021278&scene=0&sn=0e971807eb0e9dcc1a81853189a092f3&utm_medium=toutiao.io&utm_source=toutiao.io)
+ * [基于Android Studio的内存泄漏检测与解决全攻略](http://wetest.qq.com/lab/view/?id=99)
 
 
 ##优化相关
@@ -82,5 +83,5 @@
 
 # 进程保活
 
- *[Android App 不死之路](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504090054&idx=1&sn=5c5cb30c0ab4facffc7424dd6142e95d#rd)
- *[关于 Android 进程保活，你所需要知道的一切](http://www.jianshu.com/p/63aafe3c12af#)
+ * [Android App 不死之路](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504090054&idx=1&sn=5c5cb30c0ab4facffc7424dd6142e95d#rd)
+ * [关于 Android 进程保活，你所需要知道的一切](http://www.jianshu.com/p/63aafe3c12af#)
