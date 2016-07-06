@@ -47,6 +47,7 @@
 
  * [Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
  * [手把手教你逆向分析 Android 程序](https://segmentfault.com/a/1190000005133219)
+ * [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
 
 ##热更新
 
