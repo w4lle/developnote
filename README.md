@@ -85,3 +85,7 @@
 
  * [Android App 不死之路](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504090054&idx=1&sn=5c5cb30c0ab4facffc7424dd6142e95d#rd)
  * [关于 Android 进程保活，你所需要知道的一切](http://www.jianshu.com/p/63aafe3c12af#)
+
+# 持续集成
+
+ * [使用Jenkins搭建iOS/Android持续集成打包平台](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins)
