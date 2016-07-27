@@ -18,7 +18,6 @@
 ##好的文章
 
  * [Data Bindings](https://realm.io/cn/news/data-binding-android-boyar-mount/)
- * [微信Android客户端后台保活经验分享](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403254393&idx=1&sn=8dc0e3a03031177777b5a5876cb210cc)
 
 ##设计模式
 
@@ -32,6 +31,7 @@
 ##性能相关
 
  * [Android GC 那点事](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw%3D%3D&hmsr=toutiao.io&idx=1&mid=400021278&scene=0&sn=0e971807eb0e9dcc1a81853189a092f3&utm_medium=toutiao.io&utm_source=toutiao.io)
+ * [基于Android Studio的内存泄漏检测与解决全攻略](http://wetest.qq.com/lab/view/?id=99)
 
 
 ##优化相关
@@ -47,6 +47,7 @@
 
  * [Android应用安全开发之源码安全](http://drops.wooyun.org/mobile/12172)
  * [手把手教你逆向分析 Android 程序](https://segmentfault.com/a/1190000005133219)
+ * [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
 
 ##热更新
 
@@ -62,6 +63,7 @@
 * [AndFix解析——三](https://yunair.github.io/blog/2015/10/23/AndFix-%E8%A7%A3%E6%9E%90(%E4%B8%89).html)
 * [关于Android APP在线热修复bug方案的调研(一)(AndFix)](http://blog.csdn.net/xxooyc/article/details/50317455)
 * [关于Android APP在线热修复bug方案的调研(二)(MultiDex的原理分析---Nuwa)](http://blog.csdn.net/xxooyc/article/details/50330217)
+* [微信Android热补丁实践演进之路](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286306&idx=1&sn=d6b2865e033a99de60b2d4314c6e0a25&scene=4#wechat_redirect)
 
 ## Gradle
 
@@ -73,3 +75,19 @@
 # 自定义View
 
 * [Android 自定义View属性相关细节](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820236&idx=1&sn=6dec4ff1efeda3224b5a40fdad862404&scene=0#wechat_redirect)
+* [Android自绘动画实现与优化实战——以Tencent OS录音机波形动](http://bugly.qq.com/bbs/forum.php?hmsr=toutiao.io&mod=viewthread&tid=1180&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+# Git
+
+ * [使用原理视角看 Git](https://blog.coding.net/blog/principle-of-Git)
+
+# 进程保活
+
+ * [Android App 不死之路](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504090054&idx=1&sn=5c5cb30c0ab4facffc7424dd6142e95d#rd)
+ * [关于 Android 进程保活，你所需要知道的一切](http://www.jianshu.com/p/63aafe3c12af#)
+ * [微信Android客户端后台保活经验分享](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403254393&idx=1&sn=8dc0e3a03031177777b5a5876cb210cc)
+ * [论Android应用进程长存的可行性](http://blog.csdn.net/aigestudio/article/details/51348408#t20)
+
+# 持续集成
+
+ * [使用Jenkins搭建iOS/Android持续集成打包平台](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins)
