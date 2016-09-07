@@ -5,11 +5,6 @@
 
  * [倍数提高工作效率的Android Studio奇技](http://www.kuqin.com/shuoit/20150909/347947.html)
  * [Android Studio Tips Of the Day - Roundup #1](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-1/)
- * [Android Studio Tips Of the Day - Roundup #2](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-2/)
- * [Android Studio Tips Of the Day - Roundup #3](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-3/)
- * [Android Studio Tips Of the Day - Roundup #4](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-4/)
- * [Android Studio Tips Of the Day - Roundup #5](http://www.developerphil.com/android-studio-tips-of-the-day-roundup-5/)
- * [Android Studio Tips Of the Day - Roundup #6](Android Studio Tips Of the Day - Roundup #6)
 
 ###Debug技巧
 
@@ -58,9 +53,8 @@
 * [【新技能get】让App像Web一样发布新版本](http://bugly.qq.com/blog/?p=781)
 * [Android 热补丁动态修复框架小结- MultiDex方案](http://blog.csdn.net/lmj623565791/article/details/49883661)
 * [Android热补丁之AndFix原理解析](http://w4lle.github.io/2016/03/03/Android%E7%83%AD%E8%A1%A5%E4%B8%81%E4%B9%8BAndFix%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
-* [AndFix解析——一](https://yunair.github.io/blog/2015/09/25/AndFix-%E8%A7%A3%E6%9E%90(%E4%B8%80).html)
-* [AndFix解析——二](https://yunair.github.io/blog/2015/10/10/AndFix-%E8%A7%A3%E6%9E%90(%E4%BA%8C).html)
-* [AndFix解析——三](https://yunair.github.io/blog/2015/10/23/AndFix-%E8%A7%A3%E6%9E%90(%E4%B8%89).html)
+* [AndFix解析](http://w4lle.github.io/2016/03/03/Android%E7%83%AD%E8%A1%A5%E4%B8%81%E4%B9%8BAndFix%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
+* [从Instant run谈Android替换Application和动态加载机制] (http://w4lle.github.io/2016/05/02/%E4%BB%8EInstant%20run%E8%B0%88Android%E6%9B%BF%E6%8D%A2Application%E5%92%8C%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6/)
 * [关于Android APP在线热修复bug方案的调研(一)(AndFix)](http://blog.csdn.net/xxooyc/article/details/50317455)
 * [关于Android APP在线热修复bug方案的调研(二)(MultiDex的原理分析---Nuwa)](http://blog.csdn.net/xxooyc/article/details/50330217)
 * [微信Android热补丁实践演进之路](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286306&idx=1&sn=d6b2865e033a99de60b2d4314c6e0a25&scene=4#wechat_redirect)
@@ -87,6 +81,12 @@
  * [关于 Android 进程保活，你所需要知道的一切](http://www.jianshu.com/p/63aafe3c12af#)
  * [微信Android客户端后台保活经验分享](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403254393&idx=1&sn=8dc0e3a03031177777b5a5876cb210cc)
  * [论Android应用进程长存的可行性](http://blog.csdn.net/aigestudio/article/details/51348408#t20)
+
+# APT
+ 
+ * [Android编译时注解框架系列](https://lizhaoxuan.github.io/2016/07/17/apt-wathapt/)
+ * [Android 利用 APT 技术在编译期生成代码](http://brucezz.itscoder.com/articles/2016/08/06/use-apt-in-android/)
+ * [万能的APT！编译时注解的妙用](http://zjutkz.net/2016/04/07/%E4%B8%87%E8%83%BD%E7%9A%84APT%EF%BC%81%E7%BC%96%E8%AF%91%E6%97%B6%E6%B3%A8%E8%A7%A3%E7%9A%84%E5%A6%99%E7%94%A8/)
 
 # 持续集成
 
