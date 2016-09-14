@@ -58,6 +58,7 @@
 * [关于Android APP在线热修复bug方案的调研(一)(AndFix)](http://blog.csdn.net/xxooyc/article/details/50317455)
 * [关于Android APP在线热修复bug方案的调研(二)(MultiDex的原理分析---Nuwa)](http://blog.csdn.net/xxooyc/article/details/50330217)
 * [微信Android热补丁实践演进之路](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286306&idx=1&sn=d6b2865e033a99de60b2d4314c6e0a25&scene=4#wechat_redirect)
+* [Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
 
 ## Gradle
 
