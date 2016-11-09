@@ -94,3 +94,7 @@
 # 持续集成
 
  * [使用Jenkins搭建iOS/Android持续集成打包平台](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins)
+
+# Adapter
+ * [Adapter最佳实践](https://www.zybuluo.com/shark0017/note/202443)
+ * [CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter)
