@@ -96,5 +96,10 @@
  * [使用Jenkins搭建iOS/Android持续集成打包平台](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins)
 
 # Adapter
+
  * [Adapter最佳实践](https://www.zybuluo.com/shark0017/note/202443)
  * [CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter)
+ 
+# 架构
+ * [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
+ * [从0开始的新项目系列](http://blog.zhaiyifan.cn/categories/Android-Project-From-0/)
