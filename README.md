@@ -20,6 +20,7 @@
  * [戏说代理模式和Java动态代理](http://www.jianshu.com/p/0d919e54eef0)
 
 ##源码分析
+
  * [Android网络框架源码分析二---Retrofit(动态代理的实际应用)](http://www.jianshu.com/p/07dac989272c)
  * [Glide系列](http://mrfu.me/2016/02/28/Glide_Series_Roundup/)
 
@@ -101,5 +102,11 @@
  * [CommonAdapter](https://github.com/tianzhijiexian/CommonAdapter)
  
 # 架构
+
  * [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
  * [从0开始的新项目系列](http://blog.zhaiyifan.cn/categories/Android-Project-From-0/)
+ 
+# Android路由
+
+ * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch)
+ * [AndRouter](https://github.com/campusappcn/AndRouter)
