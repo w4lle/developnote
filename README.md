@@ -86,6 +86,7 @@
  * [关于 Android 进程保活，你所需要知道的一切](http://www.jianshu.com/p/63aafe3c12af#)
  * [微信Android客户端后台保活经验分享](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403254393&idx=1&sn=8dc0e3a03031177777b5a5876cb210cc)
  * [论Android应用进程长存的可行性](http://blog.csdn.net/aigestudio/article/details/51348408#t20)
+ * [Android进程保活之绑定系统服务](http://w4lle.github.io/2016/07/24/Android%E8%BF%9B%E7%A8%8B%E4%BF%9D%E6%B4%BB%E4%B9%8B%E7%BB%91%E5%AE%9A%E7%B3%BB%E7%BB%9F%E6%9C%8D%E5%8A%A1/)
 
 # APT
  
