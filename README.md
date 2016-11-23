@@ -112,3 +112,8 @@
  * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch)
  * [AndRouter](https://github.com/campusappcn/AndRouter)
  
+# Slider for Markdown
+
+ * [Google Slides](https://github.com/googlesamples/md2googleslides)
+ * [Sliders](https://github.com/w4lle/sliders)
+ 
