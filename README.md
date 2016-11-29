@@ -57,33 +57,35 @@
 
 ## 热更新
 
-* [安卓App热补丁动态修复技术介绍 -- QQ空间](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=1&srcid=1106Imu9ZgwybID13e7y2nEi#wechat_redirect)
-* [Android dex分包方案](http://my.oschina.net/853294317/blog/308583)
-* [各大热补丁方案分析和比较](http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/)
-* [ Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
-* [【新技能get】让App像Web一样发布新版本](http://bugly.qq.com/blog/?p=781)
-* [Android 热补丁动态修复框架小结- MultiDex方案](http://blog.csdn.net/lmj623565791/article/details/49883661)
-* [Android热补丁之AndFix原理解析](http://w4lle.github.io/2016/03/03/Android%E7%83%AD%E8%A1%A5%E4%B8%81%E4%B9%8BAndFix%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
-* [AndFix解析](http://w4lle.github.io/2016/03/03/Android%E7%83%AD%E8%A1%A5%E4%B8%81%E4%B9%8BAndFix%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
-* [从Instant run谈Android替换Application和动态加载机制] (http://w4lle.github.io/2016/05/02/%E4%BB%8EInstant%20run%E8%B0%88Android%E6%9B%BF%E6%8D%A2Application%E5%92%8C%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6/)
-* [关于Android APP在线热修复bug方案的调研(一)(AndFix)](http://blog.csdn.net/xxooyc/article/details/50317455)
-* [关于Android APP在线热修复bug方案的调研(二)(MultiDex的原理分析---Nuwa)](http://blog.csdn.net/xxooyc/article/details/50330217)
-* [微信Android热补丁实践演进之路](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286306&idx=1&sn=d6b2865e033a99de60b2d4314c6e0a25&scene=4#wechat_redirect)
-* [Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
-* [Tinker](https://github.com/Tencent/tinker)
-* [Tinker DexDiff](https://www.zybuluo.com/dodola/note/554061)
+ * [安卓App热补丁动态修复技术介绍 -- QQ空间](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=1&srcid=1106Imu9ZgwybID13e7y2nEi#wechat_redirect)
+ * [Android dex分包方案](http://my.oschina.net/853294317/blog/308583)
+ * [各大热补丁方案分析和比较](http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/)
+ * [ Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
+ * [【新技能get】让App像Web一样发布新版本](http://bugly.qq.com/blog/?p=781)
+ * [Android 热补丁动态修复框架小结- MultiDex方案](http://blog.csdn.net/lmj623565791/article/details/49883661)
+ * [Android热补丁之AndFix原理解析](http://w4lle.github.io/2016/03/03/Android%E7%83%AD%E8%A1%A5%E4%B8%81%E4%B9%8BAndFix%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
+ * [AndFix解析](http://w4lle.github.io/2016/03/03/Android%E7%83%AD%E8%A1%A5%E4%B8%81%E4%B9%8BAndFix%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
+ * [从Instant run谈Android替换Application和动态加载机制] (http://w4lle.github.io/2016/05/02/%E4%BB%8EInstant%20run%E8%B0%88Android%E6%9B%BF%E6%8D%A2Application%E5%92%8C%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6/)
+ * [关于Android APP在线热修复bug方案的调研(一)(AndFix)](http://blog.csdn.net/xxooyc/article/details/50317455)
+ * [关于Android APP在线热修复bug方案的调研(二)(MultiDex的原理分析---Nuwa)](http://blog.csdn.net/xxooyc/article/details/50330217)
+ * [微信Android热补丁实践演进之路](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286306&idx=1&sn=d6b2865e033a99de60b2d4314c6e0a25&scene=4#wechat_redirect)
+ * [Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
+ * [Tinker](https://github.com/Tencent/tinker)
+ * [Tinker DexDiff](https://www.zybuluo.com/dodola/note/554061)
+ * [Freeline - Android平台上的秒级编译方案](https://yq.aliyun.com/articles/59122?spm=5176.8091938.0.0.1Bw3mU)
+
 
 ## Gradle
 
-* [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
-* [Groovy Closure Example](https://examples.javacodegeeks.com/core-java/groovy-closure-example/)
-* [Groovy 与 Gradle 基础](http://blog.bugtags.com/2016/01/04/embrace-android-studio-groovy-gradle/)
-* [Gradle 插件开发](http://blog.bugtags.com/2016/03/28/embrace-android-studio-gradle-plugin/)
+ * [深入理解Android之Gradle](http://blog.csdn.net/innost/article/details/48228651)
+ * [Groovy Closure Example](https://examples.javacodegeeks.com/core-java/groovy-closure-example/)
+ * [Groovy 与 Gradle 基础](http://blog.bugtags.com/2016/01/04/embrace-android-studio-groovy-gradle/)
+ * [Gradle 插件开发](http://blog.bugtags.com/2016/03/28/embrace-android-studio-gradle-plugin/)
 
 # 自定义View
 
-* [Android 自定义View属性相关细节](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820236&idx=1&sn=6dec4ff1efeda3224b5a40fdad862404&scene=0#wechat_redirect)
-* [Android自绘动画实现与优化实战——以Tencent OS录音机波形动](http://bugly.qq.com/bbs/forum.php?hmsr=toutiao.io&mod=viewthread&tid=1180&utm_medium=toutiao.io&utm_source=toutiao.io)
+ * [Android 自定义View属性相关细节](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820236&idx=1&sn=6dec4ff1efeda3224b5a40fdad862404&scene=0#wechat_redirect)
+ * [Android自绘动画实现与优化实战——以Tencent OS录音机波形动](http://bugly.qq.com/bbs/forum.php?hmsr=toutiao.io&mod=viewthread&tid=1180&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ## Git
 
