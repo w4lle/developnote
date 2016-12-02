@@ -72,6 +72,7 @@
  * [Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
  * [Tinker](https://github.com/Tencent/tinker)
  * [Tinker DexDiff](https://www.zybuluo.com/dodola/note/554061)
+ * [ART下的方法内联策略及其对Android热修复方案的影响分析](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286426&idx=1&sn=eb75349c0c3663f10fbdd74ef87be338&chksm=8334c398b4434a8e6933ddb4fda4a4f06c729c7d2ffef37e4598cb90f4602f5310486b7f95ff#rd)
  * [Freeline - Android平台上的秒级编译方案](https://yq.aliyun.com/articles/59122?spm=5176.8091938.0.0.1Bw3mU)
 
 
