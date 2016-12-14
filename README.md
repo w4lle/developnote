@@ -120,6 +120,7 @@
 
  * [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture)
  * [从0开始的新项目系列](http://blog.zhaiyifan.cn/categories/Android-Project-From-0/)
+ * [你知道途牛Android客户端架构是怎么优化的吗？](http://mp.weixin.qq.com/s/CfPlVKElv2SshAbfzHfRhg)
  
 ## Android路由
 
