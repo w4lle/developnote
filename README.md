@@ -77,6 +77,7 @@
  * [ART下的方法内联策略及其对Android热修复方案的影响分析](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286426&idx=1&sn=eb75349c0c3663f10fbdd74ef87be338&chksm=8334c398b4434a8e6933ddb4fda4a4f06c729c7d2ffef37e4598cb90f4602f5310486b7f95ff#rd)
  * [Freeline - Android平台上的秒级编译方案](https://yq.aliyun.com/articles/59122?spm=5176.8091938.0.0.1Bw3mU)
  * [QFix探索之路—手Q热补丁轻量级方案](http://dev.qq.com/topic/57ff5832bb8fec206ce2185d)
+ * [Android热补丁之Tinker原理解析](http://w4lle.github.io/2016/12/16/tinker/)
 
 
 ## Gradle
