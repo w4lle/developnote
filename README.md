@@ -27,6 +27,7 @@
 ## 性能相关
 
  * [Android GC 那点事](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw%3D%3D&hmsr=toutiao.io&idx=1&mid=400021278&scene=0&sn=0e971807eb0e9dcc1a81853189a092f3&utm_medium=toutiao.io&utm_source=toutiao.io)
+ * [GC那些事儿--Android内存优化第一弹](http://www.jianshu.com/p/5db05db4f5ab)
  * [基于Android Studio的内存泄漏检测与解决全攻略](http://wetest.qq.com/lab/view/?id=99)
 
 
