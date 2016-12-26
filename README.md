@@ -80,6 +80,9 @@
  * [QFix探索之路—手Q热补丁轻量级方案](http://dev.qq.com/topic/57ff5832bb8fec206ce2185d)
  * [Android热补丁之Tinker原理解析](http://w4lle.github.io/2016/12/16/tinker/)
 
+## 插件化、动态加载
+
+ * [VirtualAPK：滴滴 Android 插件化的实践之路](http://www.see-source.com/blog/300000033/1449.html)
 
 ## Gradle
 
