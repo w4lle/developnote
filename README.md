@@ -134,6 +134,7 @@
 
  * [DeepLinkDispatch](https://github.com/airbnb/DeepLinkDispatch)
  * [AndRouter](https://github.com/campusappcn/AndRouter)
+ * [ARouter](https://github.com/alibaba/ARouter)
  
 ## Slider for Markdown
 
