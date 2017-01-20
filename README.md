@@ -13,6 +13,7 @@
 ## 好的文章
 
  * [Data Bindings](https://realm.io/cn/news/data-binding-android-boyar-mount/)
+ * [Android硬件加速原理与实现简介](http://tech.meituan.com/hardware-accelerate.html)
 
 ## 设计模式
 
