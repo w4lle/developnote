@@ -15,6 +15,7 @@
  * [Data Bindings](https://realm.io/cn/news/data-binding-android-boyar-mount/)
  * [Android硬件加速原理与实现简介](http://tech.meituan.com/hardware-accelerate.html)
  * [Activity到底是什么时候显示到屏幕上的呢？](http://blog.desmondyao.com/android-show-time/)
+ * [android-activity&fragment-lifecycle](https://github.com/xxv/android-lifecycle)
 
 ## 设计模式
 
