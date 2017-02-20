@@ -65,16 +65,10 @@
 ## 热更新
 
  * [安卓App热补丁动态修复技术介绍 -- QQ空间](https://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=400118620&idx=1&sn=b4fdd5055731290eef12ad0d17f39d4a&scene=1&srcid=1106Imu9ZgwybID13e7y2nEi#wechat_redirect)
- * [Android dex分包方案](http://my.oschina.net/853294317/blog/308583)
  * [各大热补丁方案分析和比较](http://blog.zhaiyifan.cn/2015/11/20/HotPatchCompare/)
- * [ Android 热补丁动态修复框架小结](http://blog.csdn.net/lmj623565791/article/details/49883661)
- * [【新技能get】让App像Web一样发布新版本](http://bugly.qq.com/blog/?p=781)
- * [Android 热补丁动态修复框架小结- MultiDex方案](http://blog.csdn.net/lmj623565791/article/details/49883661)
  * [Android热补丁之AndFix原理解析](http://w4lle.github.io/2016/03/03/Android%E7%83%AD%E8%A1%A5%E4%B8%81%E4%B9%8BAndFix%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
- * [AndFix解析](http://w4lle.github.io/2016/03/03/Android%E7%83%AD%E8%A1%A5%E4%B8%81%E4%B9%8BAndFix%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90/)
  * [从Instant run谈Android替换Application和动态加载机制] (http://w4lle.github.io/2016/05/02/%E4%BB%8EInstant%20run%E8%B0%88Android%E6%9B%BF%E6%8D%A2Application%E5%92%8C%E5%8A%A8%E6%80%81%E5%8A%A0%E8%BD%BD%E6%9C%BA%E5%88%B6/)
- * [关于Android APP在线热修复bug方案的调研(一)(AndFix)](http://blog.csdn.net/xxooyc/article/details/50317455)
- * [关于Android APP在线热修复bug方案的调研(二)(MultiDex的原理分析---Nuwa)](http://blog.csdn.net/xxooyc/article/details/50330217)
+ * [Android热补丁之Tinker原理解析](http://w4lle.github.io/2016/12/16/tinker/)
  * [微信Android热补丁实践演进之路](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286306&idx=1&sn=d6b2865e033a99de60b2d4314c6e0a25&scene=4#wechat_redirect)
  * [Android热更新方案Robust](http://tech.meituan.com/android_robust.html)
  * [Tinker](https://github.com/Tencent/tinker)
@@ -82,7 +76,6 @@
  * [ART下的方法内联策略及其对Android热修复方案的影响分析](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=2649286426&idx=1&sn=eb75349c0c3663f10fbdd74ef87be338&chksm=8334c398b4434a8e6933ddb4fda4a4f06c729c7d2ffef37e4598cb90f4602f5310486b7f95ff#rd)
  * [Freeline - Android平台上的秒级编译方案](https://yq.aliyun.com/articles/59122?spm=5176.8091938.0.0.1Bw3mU)
  * [QFix探索之路—手Q热补丁轻量级方案](http://dev.qq.com/topic/57ff5832bb8fec206ce2185d)
- * [Android热补丁之Tinker原理解析](http://w4lle.github.io/2016/12/16/tinker/)
  * [阿里HotFix2.0升级详解 畅谈热修复领域那些事](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=2651574362&idx=1&sn=9445207e1059aeb4726b3f4311890c82&chksm=8474be8cb303379acce6281eeb2e88c565c098bbf6399923ef62d3b34a2b027e3b3ae53b9209&mpshare=1&scene=23&srcid=1227zMYCO3v8P6iUmS20H9n6)
 
 ## 插件化、动态加载
