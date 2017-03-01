@@ -77,6 +77,7 @@
  * [Freeline - Android平台上的秒级编译方案](https://yq.aliyun.com/articles/59122?spm=5176.8091938.0.0.1Bw3mU)
  * [QFix探索之路—手Q热补丁轻量级方案](http://dev.qq.com/topic/57ff5832bb8fec206ce2185d)
  * [阿里HotFix2.0升级详解 畅谈热修复领域那些事](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=2651574362&idx=1&sn=9445207e1059aeb4726b3f4311890c82&chksm=8474be8cb303379acce6281eeb2e88c565c098bbf6399923ef62d3b34a2b027e3b3ae53b9209&mpshare=1&scene=23&srcid=1227zMYCO3v8P6iUmS20H9n6)
+ * [蘑菇街Android热修复探索之路](http://mp.weixin.qq.com/s/GuzbU1M1LY1VKmN7PyVbHQ)
 
 ## 插件化、动态加载
 
