@@ -82,6 +82,10 @@
 ## 插件化、动态加载
 
  * [VirtualAPK：滴滴 Android 插件化的实践之路](http://www.see-source.com/blog/300000033/1449.html)
+ 
+## App 选型
+
+ * [Native | Hybrid | Web App选型及演进方案](https://segmentfault.com/a/1190000008908963)
 
 ## Gradle
 
