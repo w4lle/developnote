@@ -51,7 +51,7 @@
  * [手把手教你逆向分析 Android 程序](https://segmentfault.com/a/1190000005133219)
  * [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
  * [炒鸡牛逼的反编译工具jadx](https://github.com/skylot/jadx)
- * [ Android逆向之旅---爆破应用签名的一种全新高效方式(Native+服务器验证)](http://blog.csdn.net/jiangwei0910410003/article/details/70194708)
+ * [安全和逆向-尼古拉斯赵四](http://www.wjdiankong.cn/category/%E5%AE%89%E5%85%A8%E5%92%8C%E9%80%86%E5%90%91/)
  
 ## Dex分包与加载
 
