@@ -51,6 +51,7 @@
  * [手把手教你逆向分析 Android 程序](https://segmentfault.com/a/1190000005133219)
  * [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
  * [炒鸡牛逼的反编译工具jadx](https://github.com/skylot/jadx)
+ * [ Android逆向之旅---爆破应用签名的一种全新高效方式(Native+服务器验证)](http://blog.csdn.net/jiangwei0910410003/article/details/70194708)
  
 ## Dex分包与加载
 
@@ -78,6 +79,8 @@
  * [QFix探索之路—手Q热补丁轻量级方案](http://dev.qq.com/topic/57ff5832bb8fec206ce2185d)
  * [阿里HotFix2.0升级详解 畅谈热修复领域那些事](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=2651574362&idx=1&sn=9445207e1059aeb4726b3f4311890c82&chksm=8474be8cb303379acce6281eeb2e88c565c098bbf6399923ef62d3b34a2b027e3b3ae53b9209&mpshare=1&scene=23&srcid=1227zMYCO3v8P6iUmS20H9n6)
  * [蘑菇街Android热修复探索之路](http://mp.weixin.qq.com/s/GuzbU1M1LY1VKmN7PyVbHQ)
+ * [Android热补丁之Robust原理解析(一)](http://w4lle.github.io/2017/03/31/robust-0/)
+ * [热修复总结](http://w4lle.github.io/2017/05/04/hotpatch-summary/)
 
 ## 插件化、动态加载
 
