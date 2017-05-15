@@ -135,6 +135,8 @@
  * [从0开始的新项目系列](http://blog.zhaiyifan.cn/categories/Android-Project-From-0/)
  * [你知道途牛Android客户端架构是怎么优化的吗？](http://mp.weixin.qq.com/s/CfPlVKElv2SshAbfzHfRhg)
  * [Android架构思考(模块化、多进程)](http://blog.spinytech.com/2016/12/28/android_modularization/)
+ * [Android Architecture: Part 3 – Applying clean architecture on Android
+](http://five.agency/android-architecture-part-3-applying-clean-architecture-android/)
  
 ## Android路由
 
