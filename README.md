@@ -155,4 +155,4 @@
 
 ## 单元测试
 
-[AndroidTesting](../AndroidTesting)
+[AndroidTesting](./AndroidTesting/README.md)
