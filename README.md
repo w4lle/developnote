@@ -151,9 +151,13 @@
 
 ## 单元测试
 
-[AndroidTesting](./AndroidTesting/README.md)
+* [AndroidTesting](./AndroidTesting/README.md)
 
 ## 动态化配置 & A/B Test
 
 * [不要写死！天猫App的动态化配置中心实践](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402842876&idx=1&sn=e15d596c95bf7d1ed579cfd7e410696a#rd)
 * [天猫App A/B测试实践](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402918999&idx=1&sn=e1dcacc4dd314013a1153ec90ab4bb82#rd)
+
+## 值得学习的开源项目
+
+* [ExpectAnim](https://github.com/florent37/ExpectAnim)
