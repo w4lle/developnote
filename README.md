@@ -102,10 +102,6 @@
  * [Android 自定义View属性相关细节](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650820236&idx=1&sn=6dec4ff1efeda3224b5a40fdad862404&scene=0#wechat_redirect)
  * [Android自绘动画实现与优化实战——以Tencent OS录音机波形动](http://bugly.qq.com/bbs/forum.php?hmsr=toutiao.io&mod=viewthread&tid=1180&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-## Git
-
- * [使用原理视角看 Git](https://blog.coding.net/blog/principle-of-Git)
-
 ## 进程保活
 
  * [Android App 不死之路](http://mp.weixin.qq.com/s?__biz=MzA4MjA0MTc4NQ==&mid=504090054&idx=1&sn=5c5cb30c0ab4facffc7424dd6142e95d#rd)
@@ -156,3 +152,8 @@
 ## 单元测试
 
 [AndroidTesting](./AndroidTesting/README.md)
+
+## 动态化配置 & A/B Test
+
+* [不要写死！天猫App的动态化配置中心实践](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402842876&idx=1&sn=e15d596c95bf7d1ed579cfd7e410696a#rd)
+* [天猫App A/B测试实践](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=402918999&idx=1&sn=e1dcacc4dd314013a1153ec90ab4bb82#rd)
