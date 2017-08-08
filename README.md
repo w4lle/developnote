@@ -52,6 +52,7 @@
  * [那些值得你试试的Android竞品分析工具](http://www.jianshu.com/p/ba2d9eca47a2)
  * [炒鸡牛逼的反编译工具jadx](https://github.com/skylot/jadx)
  * [安全和逆向-尼古拉斯赵四](http://www.wjdiankong.cn/category/%E5%AE%89%E5%85%A8%E5%92%8C%E9%80%86%E5%90%91/)
+ * [Android 安全防护](http://blog.csdn.net/u013409903/article/details/76686155)
  
 ## Dex分包与加载
 
