@@ -44,6 +44,7 @@
  * [基于 Facebook Redex 实现 Android APK 的压缩和优化](http://www.jianshu.com/p/78ad578251ef)
  * [Redex初探与Interdex：Andorid冷启动优化](http://dev.qq.com/topic/583b9e3ee8992c2c2df6e6ac)
  * [携程移动端性能优化](http://mp.weixin.qq.com/s/7wutqNV136ENi-oQjWlOpA)
+ * [VasSonic H5首屏秒开方案](https://github.com/Tencent/VasSonic/blob/master/assets/sonic%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B.md)
 
 ## 应用安全
 
