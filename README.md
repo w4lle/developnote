@@ -169,3 +169,7 @@
 ## 值得学习的开源项目
 
 * [ExpectAnim](https://github.com/florent37/ExpectAnim)
+
+## 软件开发模式
+
+ * [漫画解读：通过造车来了解软件开发模式](https://mp.weixin.qq.com/s/ecEinRGZEgStAJATEh6DMQ)
