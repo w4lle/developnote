@@ -89,6 +89,8 @@
  * [VirtualAPK：滴滴 Android 插件化的实践之路](http://www.see-source.com/blog/300000033/1449.html)
  * [微店 Android 插件化实践](https://mp.weixin.qq.com/s/p8-ABKDpMLm6T4lJdK8Y3Q)
  * [Android博客周刊专题之＃插件化开发＃](http://www.androidblog.cn/index.php/Index/detail/id/16)
+ * [滴滴插件化方案 VirtualApk 源码解析](http://blog.csdn.net/lmj623565791/article/details/75000580)
+ * [VirtualAPK 资源篇](https://www.zybuluo.com/dodola/note/814116)
  
 ## App 选型
 
