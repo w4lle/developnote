@@ -54,6 +54,8 @@
  * [炒鸡牛逼的反编译工具jadx](https://github.com/skylot/jadx)
  * [安全和逆向-尼古拉斯赵四](http://www.wjdiankong.cn/category/%E5%AE%89%E5%85%A8%E5%92%8C%E9%80%86%E5%90%91/)
  * [Android 安全防护](http://blog.csdn.net/u013409903/article/details/76686155)
+ * [常见app加固厂商脱壳方法研究](http://www.mottoin.com/89035.html)
+ * [安卓脱壳&&协议分析&&Burp辅助分析插件编写](https://xianzhi.aliyun.com/forum/topic/1805)
  
 ## Dex分包与加载
 
