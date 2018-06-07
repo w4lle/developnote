@@ -9,6 +9,7 @@
 ### Debug技巧
 
  * [Android Studio你不知道的调试技巧](http://tianweishu.com/2015/12/21/android-studio-debug-tips-you-may-not-know/)
+ * [好用的屏幕共享](https://github.com/Genymobile/scrcpy)
 
 ## 好的文章
 
