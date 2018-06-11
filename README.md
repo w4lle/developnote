@@ -176,3 +176,8 @@
 ## 软件开发模式
 
  * [漫画解读：通过造车来了解软件开发模式](https://mp.weixin.qq.com/s/ecEinRGZEgStAJATEh6DMQ)
+ 
+## 工作之外
+
+ * [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
+ * [remote work](https://remoteok.io/)
