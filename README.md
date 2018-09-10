@@ -57,6 +57,10 @@
  * [Android 安全防护](http://blog.csdn.net/u013409903/article/details/76686155)
  * [常见app加固厂商脱壳方法研究](http://www.mottoin.com/89035.html)
  * [安卓脱壳&&协议分析&&Burp辅助分析插件编写](https://xianzhi.aliyun.com/forum/topic/1805)
+ * [Android安全防护之旅—只需要这几行代码让Android程序项目变得更加安全](http://www.520monkey.com/archives/1263)
+ * 微信
+   * [微信数据库最新的解密方式，使用C++代码解密微信加密数据库信息！](http://www.520monkey.com/archives/1277)
+   * [Java中通过JNI技术开发一款PC端微信数据库解密备份工具](http://www.520monkey.com/archives/1280)
  
 ## Dex分包与加载
 
