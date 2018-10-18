@@ -61,6 +61,9 @@
  * 微信
    * [微信数据库最新的解密方式，使用C++代码解密微信加密数据库信息！](http://www.520monkey.com/archives/1277)
    * [Java中通过JNI技术开发一款PC端微信数据库解密备份工具](http://www.520monkey.com/archives/1280)
+  * 证书固定
+    * [Xposed + JustTrustMe](https://github.com/Fuzion24/JustTrustMe)
+    * [Frida + DroidSSLUnpinning](https://github.com/WooyunDota/DroidSSLUnpinning)
  
 ## Dex分包与加载
 
